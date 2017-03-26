@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/Tee/Desktop/HackReactorOnSite'
+let g:netrw_dirhist_2='/Users/Tee/Desktop/HackReactorOnSite/hrsf72-greenfield'
+let g:netrw_dirhist_3='/Users/Tee/Desktop/HackReactorOnSite'
+let g:netrw_dirhist_4='/Users/Tee/Desktop/HackReactorOnSite/HRDay1'
+let g:netrw_dirhist_5='/Users/Tee/Desktop/HackReactorOnSite/HRDay1/src'
+let g:netrw_dirhist_6='/Users/Tee/Desktop/HackReactorOnSite/hrsf72-greenfield'
+let g:netrw_dirhist_7='/Users/Tee/Desktop/HackReactorOnSite'
+let g:netrw_dirhist_8='/Users/Tee/Desktop/HackReactorOnSite/hrsf72-greenfield'
